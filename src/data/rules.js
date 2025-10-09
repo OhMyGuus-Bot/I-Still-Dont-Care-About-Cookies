@@ -18417,6 +18417,9 @@ const rules = {
   "e-act.org.uk": {
     s: ".notification.settings-bar, .notification-overlay { display: none !important; visibility: hidden !important; pointer-events: none !important; }",
   },
+  "oxfordonlineenglish.com": {
+    s: "#cookie-dialog, .ui-dialog.ui-front, .ui-widget-overlay.ui-front, .cookie-overlay { display: none !important; visibility: hidden !important; pointer-events: none !important; } html, body { overflow: visible !important; }",
+  },
 };
 
 const blockUrls = {
