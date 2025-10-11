@@ -18512,7 +18512,7 @@ const rules = {
     s: ".cm--panel, .cm--wrapper, .cm--back { display: none !important; }",
   },
   "rolex.com": {
-    s: '#qc-cmp2-container, #qc-cmp2-main, #qc-cmp2-ui, div[class*="Overlay-Root"] { display: none !important; visibility: hidden !important; pointer-events: none !important; }',
+    s: '#qc-cmp2-container,#qc-cmp2-main,#qc-cmp2-ui,button#accept-btn,button#disagree-btn,button#more-options-btn,div[class*="Overlay-Root"],div[style*="--1jzt2wy"]{display:none !important;visibility:hidden !important;pointer-events:none !important;}',
   },
 
   // end of const rules
