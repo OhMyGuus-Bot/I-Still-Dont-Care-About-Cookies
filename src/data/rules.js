@@ -18742,7 +18742,7 @@ const rules = {
     s: "dialog#in2-modal, dialog#in2-modal::backdrop, .c-iframeswitch__content { display: none !important; } html, body { overflow: auto !important; }",
   },
   "fugaziresearch.com": {
-    s: 'div[class*="cookieBanner"] { display: none !important; }',
+    s: "#ccp---nb, #cc-nb-title, #cc-nb-text, a#reject { display: none !important; visibility: hidden !important; pointer-events: none !important; }",
   },
   "tracking.postnl.nl": {
     s: 'pnl-cookie-wall-widget, pnl-cookie-widget-overview, pnl-cookie-widget-settings { display: none !important; } body[style*="position: fixed"][style*="overflow: hidden"] { position: static !important; overflow: auto !important; width: auto !important; height: auto !important; }',
