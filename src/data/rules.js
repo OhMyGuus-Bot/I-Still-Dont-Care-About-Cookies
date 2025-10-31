@@ -19360,6 +19360,9 @@ const rules = {
   "hamburg.leibniz-lib.de": {
     s: ".p-privacy-settings{display:none!important}html{overflow:auto!important}",
   },
+  "careers.tryhackme.com": {
+    s: '[data-controller^="common--cookies"],.z-cookie-alert,[class*="backdrop:bg-"]{display:none!important;visibility:hidden!important;pointer-events:none!important;}',
+  },
 
   // end of const rules
 };
