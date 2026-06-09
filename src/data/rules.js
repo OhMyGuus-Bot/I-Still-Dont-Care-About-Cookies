@@ -12657,7 +12657,7 @@ const rules = {
     s: "#gatsby-focus-wrapper > div:last-child{display:none !important}",
     j: "5",
   },
-  "sundhed.dk": { s: "sdk-layout-main-cookiebox{display:none !important}" },
+  "sundhed.dk": { s: "sdk-layout-main-cookiebox{display:none!important}" },
   "calendrier-lunaire.net": { s: "#ezcc{display:none !important}" },
   "n26.com": { j: "5" },
   "akemi.de": { s: "#tw-cookie{display:none !important}" },
