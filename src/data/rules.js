@@ -20590,6 +20590,9 @@ const rules = {
   "smartial.net": {
     s: ".pcb { display: none !important; } html, body { overflow: auto !important; }",
   },
+  "gpt-trainer.com": {
+    s: '[class*="animate-fade-in-up"][class*="fixed"][class*="z-[99999999]"]{display:none!important;}',
+  },
 
   // end of const rules
 };
